@@ -1,7 +1,7 @@
 class Restaurant:
-    customer=[]
-    review=[]
     
+    review=[]
+#creating a review for the restaurant that the review will go intp the empty list
     
 
     def __init__(self,name) :
